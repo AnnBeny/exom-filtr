@@ -67,8 +67,6 @@ pip install -r requirements.txt
 
 🍬 2026 · [@AnnBeny](https://github.com/AnnBeny)
 
-<br>
-
 ![app](https://img.shields.io/badge/app-Streamlit-blue?style=for-the-badge)
 ![domain](https://img.shields.io/badge/domain-bioinformatics-6A5ACD?style=for-the-badge)
 ![python](https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge)

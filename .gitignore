@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Streamlit / editor
+.vscode/
+.streamlit/
+
+# Data & outputs
+input/
+helps/
+*.merged.txt
+null

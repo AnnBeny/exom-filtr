@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Exom Streamlit App
+Comment=Launch the Genes Filter App
+Exec=/mnt/hdd2/anna/exom_genes/run.sh
+Path=/mnt/hdd2/anna/exom_genes
+Terminal=true
+Type=Application
+Icon=/mnt/hdd2/anna/exom_genes/exom_filtr.ico
+Categories=Development;

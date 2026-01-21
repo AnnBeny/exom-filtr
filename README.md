@@ -59,5 +59,5 @@ pip install -r requirements.txt
 
 ## Spuštění
 
-Exom_genes.bat - Windows
-Exom_genes_filter.desktop - Linux
+- Exom_genes.bat - Windows
+- Exom_genes_filter.desktop - Linux

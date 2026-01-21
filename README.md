@@ -62,3 +62,6 @@ pip install -r requirements.txt
 
 - Exom_genes.bat - Windows
 - Exom_genes_filter.desktop - Linux
+
+<br>
+[![Author](https://img.shields.io/badge/Annn-author?style=for-the-badge&logoColor=pink&logoSize=auto&labelColor=%23ff0055&color=%23ff0055)](https://github.com/AnnBeny) 2026

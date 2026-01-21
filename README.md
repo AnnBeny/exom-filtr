@@ -64,9 +64,8 @@ pip install -r requirements.txt
 - Exom_genes_filter.desktop - Linux
 
 <br>
-Autor: [Anna Benýšková](https://github.com/AnnBeny)
+@Annn (https://github.com/AnnBeny)
 
 ![app](https://img.shields.io/badge/app-Streamlit-blue?style=for-the-badge)
 ![domain](https://img.shields.io/badge/domain-bioinformatics-6A5ACD?style=for-the-badge)
-![status](https://img.shields.io/badge/status-stable-brightgreen?style=for-the-badge)
 ![python](https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge)

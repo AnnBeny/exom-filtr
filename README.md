@@ -64,7 +64,7 @@ pip install -r requirements.txt
 - Exom_genes_filter.desktop - Linux
 
 <br>
-2026 · <span style="color:#d16ba5;">[@AnnBeny](https://github.com/AnnBeny)</span>
+🍬 2026 · [@AnnBeny](https://github.com/AnnBeny)
 <br>
 
 ![app](https://img.shields.io/badge/app-Streamlit-blue?style=for-the-badge)

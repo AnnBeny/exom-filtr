@@ -6,7 +6,7 @@ Jedná se o desktopovou Streamlit aplikaci, která umožňuje:
 3) vyfiltrovat řádky, kde se ve sloupci `Gene.refGeneWithVer` nachází alespoň jeden z vybraných genů
 4) stáhnout zpět vyfiltrovaný soubor
 
-Když jeden řádek obsahuje více genů (oddělených `;`) a vyfiltruje celý původní řádek, pokud se v něm vyskytuje kterýkoli z cílových genů.
+Když jeden řádek obsahuje více genů (oddělených `;`), vyfiltruje celý původní řádek, pokud se v něm vyskytuje kterýkoli z cílových genů.
 
 ---
 

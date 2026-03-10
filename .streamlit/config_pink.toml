@@ -1,0 +1,13 @@
+[theme]
+base="light"
+primaryColor="#b8064a"
+backgroundColor="#faecf6"
+secondaryBackgroundColor="#ff2579"
+baseRadius="full"
+showWidgetBorder=false
+dataframeHeaderBackgroundColor="#f0639e"
+
+[theme.sidebar]
+baseRadius="10px"
+borderColor="black"
+textColor = "#262730"   

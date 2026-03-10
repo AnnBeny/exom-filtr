@@ -1,0 +1,15 @@
+[theme]
+base="light"
+primaryColor="black"
+backgroundColor="black"
+secondaryBackgroundColor="white"
+textColor="white"
+baseRadius="full"
+showWidgetBorder=false
+dataframeHeaderBackgroundColor="grey"
+
+[theme.sidebar]
+baseRadius="10px"
+borderColor="white"
+secondaryBackgroundColor="grey"
+backgroundColor="black"

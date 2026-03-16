@@ -76,8 +76,7 @@ pip install -r requirements.txt
 - Exom_genes_filter.desktop - Linux
 
 ---
-
-<img src="image.png" style="box-shadow:0 10px 20px rgba(0,0,0,0.3);">
+![náhled](image.png)
 
 <br>
 

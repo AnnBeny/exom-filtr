@@ -75,6 +75,8 @@ pip install -r requirements.txt
 - Exom_genes.bat - Windows
 - Exom_genes_filter.desktop - Linux
 
+![náhled](image.png)
+
 <br>
 
 🍬 2026 · [@AnnBeny](https://github.com/AnnBeny)
